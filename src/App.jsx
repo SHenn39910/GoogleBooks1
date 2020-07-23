@@ -26,7 +26,7 @@ function App() {
                         .then(res => {
                             if (startIndex >= res.data.totalItems || startIndex < 1) {
                                 toast.error(
-                                    `max results must be between 1 and ${res.data.totalItehms}`
+                                    `max results must be between 1 and ${res.data.totalItems}`
                                 );
                             } else {
                                 if (res.data.items.length > 0) {
