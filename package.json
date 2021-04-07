@@ -1,0 +1,20 @@
+{
+  "name": "googlebooks1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHenn39910/GoogleBooks1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHenn39910/GoogleBooks1/issues"
+  },
+  "homepage": "https://github.com/SHenn39910/GoogleBooks1#readme"
+}
